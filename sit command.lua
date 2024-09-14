@@ -8,4 +8,4 @@ game:GetService("Players").PlayerAdded:Connect(function(player)
     end)
 end)
 
--- put in ServerScriptService
+-- put this in a Script in ServerScriptService
